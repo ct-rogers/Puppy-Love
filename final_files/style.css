@@ -102,12 +102,23 @@ td{
     object-fit: scale-down;
 }
 
+td image{
+  height: auto;
+  width: auto;
+
+}
+
+form{
+  background-color: #ddd;
+  padding: 20px;
+
+}
+
 .name{
   background-color: #ff5c33;
   padding: 20px;
   border-radius: 10px;
   color: #fff;
-  align-content: center;
 
 }
 
